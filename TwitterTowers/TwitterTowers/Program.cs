@@ -52,7 +52,8 @@ namespace TwitterTowers
             switch (input)
             {
                 case 1:
-                    Console.WriteLine("The perimeter of the triangular is: " + (height * width) / 3);
+                    double sideOfTriangle = Math.Sqrt(Math.Pow(height, 2) + Math.Pow((width / 2), 2));
+                    Console.WriteLine("The perimeter of the triangular is: " + (sideOfTriangle*2+width));
                     break;
                 case 2:
                     if (width % 2 == 0 || height * 2 < width)
