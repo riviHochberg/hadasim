@@ -1,0 +1,17 @@
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\bin\Debug\net6.0\Corona.BL.deps.json
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\bin\Debug\net6.0\Corona.BL.runtimeconfig.json
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\bin\Debug\net6.0\Corona.BL.dll
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\bin\Debug\net6.0\Corona.BL.pdb
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\bin\Debug\net6.0\Corona.DAL.dll
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\bin\Debug\net6.0\Corona.DAL.pdb
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.AssemblyInfo.cs
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.csproj.CopyComplete
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.dll
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\refint\Corona.BL.dll
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.pdb
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\Corona.BL.genruntimeconfig.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.BL\obj\Debug\net6.0\ref\Corona.BL.dll

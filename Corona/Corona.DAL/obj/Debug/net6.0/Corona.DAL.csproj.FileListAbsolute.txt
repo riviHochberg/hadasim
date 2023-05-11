@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\bin\Debug\net6.0\Corona.DAL.deps.json
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\bin\Debug\net6.0\Corona.DAL.runtimeconfig.json
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\bin\Debug\net6.0\Corona.DAL.dll
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\bin\Debug\net6.0\Corona.DAL.pdb
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.AssemblyInfo.cs
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.dll
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\refint\Corona.DAL.dll
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.pdb
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\Corona.DAL.genruntimeconfig.cache
+C:\Users\1\Desktop\Ha\Corona\Corona.DAL\obj\Debug\net6.0\ref\Corona.DAL.dll
